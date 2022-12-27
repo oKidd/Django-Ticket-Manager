@@ -6,3 +6,8 @@ Contians:
 - Ticket View
 - Index with Ticket Previsualization
 - Ticket Filters
+
+Requeriments:
+- Deploy a database named "DJANGO_TICKETS" with MySQL.
+- Make migrations and migrate.
+- It's Ready!
